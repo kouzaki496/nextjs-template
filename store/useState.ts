@@ -1,5 +1,4 @@
 import { create } from 'zustand'
-import { Test } from '@/components/Test'
 
 type State = {
   count: number
