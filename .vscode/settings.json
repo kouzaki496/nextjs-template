@@ -1,0 +1,19 @@
+{
+  "workbench.settings.openDefaultSettings": true,
+  "workbench.settings.useSplitJSON": false,
+  "editor.dropIntoEditor.preferences": [],
+
+  "editor.formatOnSave": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+
+  "eslint.validate": ["javascript", "typescript", "typescriptreact"],
+
+  "prettier.requireConfig": true,
+
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
